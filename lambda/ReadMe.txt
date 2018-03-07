@@ -1,1 +1,1 @@
-Directory to put the lambda function code
+Dir to put the lambda function code
